@@ -16,7 +16,7 @@
       (async () => {
         const response = await fetch('https://api.github.com/repos/asikurbd/css/contents/');
         const data = await response.json();      
-        let htmlString = ' <div class="div"><center> Image Upload </center></div>';        
+        let htmlString = ' <div class="div"><center> Css List </center></div>';        
         for (let file of data) {
           htmlString += `<hr> &#x2022; <a href="${file.path}">${file.name}</a>`;
         }
