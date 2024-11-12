@@ -1,36 +1,36 @@
 body{	
-	  max-width:900px; 
-	  font-size: 17px; 
-	  color: #000; 
-	  background-color:#F1F4F9;
-    margin-top:10px;
-    margin-bottom:10px;
-	  margin: 0 auto;
-	  padding: 3px;
-	  border: 0px solid #a2a2a2;
+	max-width:900px; 
+	font-size: 17px; 
+	color: #000; 
+	background-color:#F1F4F9;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin: 0 auto;
+	padding: 3px;
+	border: 0px solid #a2a2a2;
 }
 html * {
     font-family: Calibri !important;
 }
 
 a{
-	  text-decoration: none; 
-	  color: #0c1ace;
-	  cursor: pointer;
+	text-decoration: none; 
+	color: #0c1ace;
+	cursor: pointer;
 }
 
 a:hover {
-    color: red;
+	color: red;
 }
 	
-.div {border-radius:4px;padding: 8px; font-weight: bold; background-color:#047448;font-size: 20px;color:#fff; }
+.div {border-radius:4px;padding: 8px; font-weight: bold; 	background-color:#047448;font-size: 20px;color:#fff; }
 
 hr {margin-top:4px;margin-bottom:4px;border:1px dotted #a5a6a8;  
   }
 table {
-	  border-collapse: collapse;
-	  font-family: Calibri;
-  	border-radius:4px;
+	border-collapse: collapse;
+	font-family: Calibri;
+	border-radius:4px;
 }
 
 r {
@@ -38,8 +38,8 @@ r {
   }  
   
 a {
-	  text-decoration: none; 
-	  color: #991a22;
+	text-decoration: none; 
+	color: #991a22;
 }
 
 a:hover { 
@@ -48,7 +48,7 @@ a:hover {
   
 
  .phdr{  
-    background:#047448;padding:5px;color:#fff; border-radius:4px;text-align:center;font-weight: bold;
+	background:#047448;padding:5px;color:#fff; border-radius:4px;text-align:center;font-weight: bold;
   
   }
  
@@ -57,26 +57,26 @@ a:hover {
 
 
 .cpy	{
-	  padding:4px;
-	  background-color:#5d2091;
+	padding:4px;
+	background-color:#5d2091;
     border:2px dashed #fff; 
     display: block;
-	  color: #fff;
-	  font-size: 20px;
-	  margin: 0px;
-	  text-align: center;
+	color: #fff;
+	font-size: 20px;
+	margin: 0px;
+	text-align: center;
     border-radius:4px; 
     font-weight: bold;
 }
 .hed	{
-	  padding:5px;
-	  background-color:#056f02;
+	padding:5px;
+	background-color:#056f02;
   	border:2px dashed #fff; 
   	display: block;
-	  color: #fff;
-	  font-size: 24px;
-	  margin: 0px;
-	  text-align: center;
+	color: #fff;
+	font-size: 24px;
+	margin: 0px;
+	text-align: center;
   	border-radius:4px; 
   	font-weight: bold; 
 }
